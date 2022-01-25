@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99642951390",
+    "project_id": "glenindia-98536",
+    "storage_bucket": "glenindia-98536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99642951390:android:6906920f9d8c5a0815244f",
+        "android_client_info": {
+          "package_name": "com.glen.glenmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99642951390-6r85uuhqo0htm1urcjl6ng7pvv419fbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPNroCEpf45AT8yhH7G8WSUcWUsoMAdho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99642951390-6r85uuhqo0htm1urcjl6ng7pvv419fbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
